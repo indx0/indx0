@@ -5,7 +5,8 @@ I'm Index. My real name is Yan.
 - 🌱 I’m currently learning C#.
 
 📫 How to reach me:
-<img src="./telegram.svg"> <a href="https://t.me/index_zero">Telegram</a>
+<br>
+<img color="#229ED9" src="./telegram.svg"> <a href="https://t.me/index_zero">Telegram</a>
 
 <!--
 **IndexZeroZzz/IndexZeroZzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
