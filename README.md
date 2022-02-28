@@ -9,7 +9,7 @@ I'm Index. My real name is Yan.
 <br>
 <a href="https://t.me/index_zero/"><img src="https://img.shields.io/badge/Telegram%20Channel-index__room-blueviolet"></a>
 <br>
-<a href="javascript:void(0);"><img src="https://img.shields.io/badge/Email-indexzero__404@outlook.com-blue"></a>
+<a href="javascript:void(0);"><img src="https://img.shields.io/badge/Email-indexzero__404@outlook.com-blueviolet"></a>
 
 
 <!--
