@@ -6,7 +6,11 @@ I'm Index. My real name is Yan.
 
 📫 How to reach me:
 <br>
-<h5><a href="https://t.me/index_zero"><img src="./telegram.svg"> Telegram</a></h5>
+<a href="https://t.me/index_zero/">Telegram</a>
+
+Also I have telegram channel
+<a href="https://t.me/index_room/">Index Room</a>
+
 
 <!--
 **IndexZeroZzz/IndexZeroZzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
