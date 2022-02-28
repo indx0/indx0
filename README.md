@@ -5,9 +5,11 @@ I'm Index. My real name is Yan.
 - 🌱 I’m currently learning C#.
 
 <br>
-<a href="https://t.me/index_zero/">Telegram</a>
+<a href="https://t.me/index_zero/"><img src="https://img.shields.io/badge/Telegram-index__zero-blue"></a>
 <br>
-<a href="https://t.me/index_room/">Telegram Channel</a>
+<a href="https://t.me/index_zero/"><img src="https://img.shields.io/badge/Telegram%20Channel-index__room-blue"></a>
+<br>
+<a href="javascript:void(0);"><img src="https://img.shields.io/badge/Email-indexzero__404@outlook.com-blue"></a>
 
 
 <!--
