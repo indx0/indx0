@@ -4,12 +4,9 @@ I'm Index. My real name is Yan.
 - 🔭 I’m currently working on <a href="https://bonbonbot.xyz">site</a> for BonBon telegram bot.
 - 🌱 I’m currently learning C#.
 
-📫 How to reach me:
 <br>
 <a href="https://t.me/index_zero/">Telegram</a>
-
-Also I have telegram channel
-<a href="https://t.me/index_room/">Index Room</a>
+<a href="https://t.me/index_room/">Telegram Channel</a>
 
 
 <!--
