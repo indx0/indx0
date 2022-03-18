@@ -9,8 +9,6 @@ I'm Index. My real name is Yan.
 <br>
 <a href="https://t.me/index_zero/"><img src="https://img.shields.io/badge/Telegram%20Channel-index__room-blueviolet"></a>
 <br>
-<a href="mailto:indexzero_404@outlook.com"><img src="https://img.shields.io/badge/Email-indexzero__404@outlook.com-blueviolet"></a>
-
 
 <!--
 **IndexZeroZzz/IndexZeroZzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
