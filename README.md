@@ -1,7 +1,8 @@
-### <h1>Who am I <img alt="Thinking Hard" width="32" src="https://acegif.com/wp-content/gif/thinking-emoji-30.gif"></h1
+### <h1>Who am I <img alt="Thinking Hard" width="32" src="https://acegif.com/wp-content/gif/thinking-emoji-30.gif">
 <b>
 NOBODY. NOBODY. NOBODY...
 <b>
+<br>
 
 <br>
 <a href="https://t.me/index_zero/"><img src="https://img.shields.io/badge/Telegram-index__zero-blueviolet"></a>
