@@ -8,7 +8,7 @@
 <a href="https://t.me/index_zero/"><img src="https://img.shields.io/badge/Telegram-index__zero-blueviolet"></a>
 <br>
 
-
+Currently learning Java.
 <!--
 **IndexZeroZzz/IndexZeroZzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
