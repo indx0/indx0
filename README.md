@@ -1,4 +1,5 @@
 <img alt="Thinking Hard" width="32" src="https://github.com/IndexZeroZzz/IndexZeroZzz/blob/main/thinking-emoji-30.gif?raw=true">
+Readme stats are broken again ;-;
 <p align="center">
   <img src="https://readme-stats-mu-virid-huecker-docker.vercel.app/api?username=indexzerozzz&theme=catppuccin_mocha">
 </p>
