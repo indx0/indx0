@@ -3,5 +3,5 @@
   <img src="https://readme-stats-mu-virid-huecker-docker.vercel.app/api?username=indx0&theme=catppuccin_mocha&exclude_repo=readme-stats,cpp_chess&hide=typescript,javascript">
 </p>
 <p align="center">
-  <img src="https://readme-stats-mu-virid-huecker-docker.vercel.app/api/top-langs/?username=indx0&layout=donut&theme=catppuccin_mocha&exclude_repo=readme-stats,cpp_chess&hide=typescript,javascript">
+  <img src="https://readme-stats-mu-virid-huecker-docker.vercel.app/api/top-langs/?username=indx0&layout=donut&theme=catppuccin_mocha&exclude_repo=readme-stats,cpp_chess,amnezia-client&hide=typescript,javascript">
 </p>
